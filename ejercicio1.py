@@ -7,6 +7,7 @@ nombre:string
 salida:
 saludo:strring
 """
-nombre = input("escribe tu nombre:")
-saludo ="holaa "+nombre+"!"
+nombre = input("escribe tu nombre:=")
+edad = input("escribe tu edad: ")
+salud ="holaa"+ nombre + "de" + edad + 
 print(saludo)
