@@ -1,0 +1,14 @@
+"""
+ejercicio 5:
+un programa que convierte un valor
+dado en grados fahrenheit a grados celsius
+entrada:
+grados fahrenheit = celsius
+salida:
+faherenheit
+"""
+gradosfahrenhein = input("ingresasr los grados fahrenheit:")
+gradosfahrenhein = int(gradosfahrenhein)
+celsius = gradosfahrenhein - 32
+celsius = celsius * 5/9
+print("la coversion de fahrenheit a celsius es de:", celsius)
