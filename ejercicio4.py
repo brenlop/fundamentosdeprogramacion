@@ -22,4 +22,4 @@ division = valor1 / valor2
 print("la suma de los dos valores es:",suma)
 print("la resta de los dos valores es:",resta)
 print("la multiplicacion de los dos valores es:",multiplicacion)
-print("la divicion de los dos valores es:",division)
+print("la divicion de los dos valSres es:",division)
