@@ -9,4 +9,6 @@ numero invertido
 """
 num = input("ingresa un numero de dos cifras:")
 num = int(num)
-dec = 
+dec = num // 10
+uni = % 10 
+print("el numero invertido es:", uni ,dec)
