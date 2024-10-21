@@ -7,10 +7,10 @@ entrada:
 valor A
 valor B
 salida:
-encontrar los dos valores 
+dos valores
 """
 valorA = input("ingresa el valor de A:")
-valorA int(valorA) 
+valorA = int(valorA) 
 valorB = input("ingresa el valorB:")
 valorB =int(valorB)
 nx = valorA
