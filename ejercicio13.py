@@ -12,5 +12,4 @@ raiz _ cuadrada = numero ** 0.5
 raiz _ cubica = numero **(1/3)
 print("la raiz cuadada es:")
 int(raiz_cuadrada))
-print("la raiz_cubica es:",)
 int(raiz_cubica)
